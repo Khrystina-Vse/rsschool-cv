@@ -1,7 +1,7 @@
 # **KHRYSTYNA KOMAR**
 ***
 ![](BW.avif)
- 1. ### CONTACT DATA
+ 1. ### *CONTACT DATA*
  ___
 
  - Phone: 508406715
@@ -9,17 +9,17 @@
  - Discord: Khrystina-Vse#1359
  - Adress: Poland, Gdansk
 
- 2. ### GOAL AND SHORT SUMMERY
+ 2. ### *GOAL AND SHORT SUMMERY*
  ___
  - apply for a position in a large company where I can grow professionally using knowledge and see the result of own work
  - responsibile, honest, attentive, highly organized and detail-oriented, don't have fear against difficulties, used to work for the result, have ability to study and self perfection
- 3. ### EDUCATION
+ 3. ### *EDUCATION*
  ___
  - CAP (Certified Accounting Practitioner) certificate in accordance with CAP/CIPA program; passed 2 exams from CIPA diploma, others are in the process of studying.
  - Diploma DipIFR(rus)ACCA (Diploma in International Financial Reporting).
  - English courses in Kiev training center “British Council”.
  - Faculty International economy and management of Kiev National Economic University named after Vadym Hetman (master diploma with honors).
- 4. ### OTHER SKILLS:
+ 4. ### *OTHER SKILLS*:
  ___
  - ### Languages:
  
@@ -43,11 +43,11 @@
 
   \-HTML, CSS, GitHub
 
-5. ### MY CODE:
+5. ### *MY CODE*:
 ___
 
 
-6. ### WORKING EXPERIENCE:
+6. ### *WORKING EXPERIENCE*:
 ___
 - *May 2022 till nowadays* -  **GL accountant** of Hempel Sp. z o.o.
 
@@ -60,5 +60,5 @@ ___
 
 - *April 2012- November 2013* **Chief accountant’s assistant** of LLC “MET ENGINEERING”
 
-7. ### [CV LINK](https://Khrystina-Vse.github.io/rsschool-cv/cv)
+7. ### *[CV LINK](https://github.com/Khrystina-Vse/rsschool-cv/blob/gh-pages/cv.md)*
 
