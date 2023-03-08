@@ -45,7 +45,10 @@
 
 5. ### *MY CODE*:
 ___
-
+``function multiply(a, b){
+  console.log(a * b);
+  return a * b;
+}``
 
 6. ### *WORKING EXPERIENCE*:
 ___
@@ -58,7 +61,7 @@ ___
 
 - *January 2014 – February 2022* **Chief accountant** of LLC “VENT TEK. UKRAINA”
 
-- *April 2012- November 2013* **Chief accountant’s assistant** of LLC “MET ENGINEERING”
+- *April 2012- November 2013* **Chief accountant’s assistant** of 
 
 7. ### *[CV LINK](https://github.com/Khrystina-Vse/rsschool-cv/blob/gh-pages/cv.md)*
 
