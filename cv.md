@@ -45,11 +45,12 @@
 
 5. ### *MY CODE*:
 ___
-``function multiply(a, b){
+``` javascript
+function multiply(a, b){
   console.log(a * b);
   return a * b;
-}``
-
+}
+```
 6. ### *WORKING EXPERIENCE*:
 ___
 - *May 2022 till nowadays* -  **GL accountant** of Hempel Sp. z o.o.
