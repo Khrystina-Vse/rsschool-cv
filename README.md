@@ -1,1 +1,1 @@
-https://Khrystina-Vse.github.io/rsschool-cv/
+# rsschool-cv
