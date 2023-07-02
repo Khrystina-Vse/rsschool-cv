@@ -1,6 +1,6 @@
 # **KHRYSTYNA KOMAR**
 ***
-![](BW.avif)
+![](Photo.PNG)
  1. ### *CONTACT DATA*
  ___
 
